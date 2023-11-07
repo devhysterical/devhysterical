@@ -31,9 +31,9 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=devhysterical">
+<!--         <a href="https://activity-graph.herokuapp.com/graph?username=devhysterical">
           <img width="705" src="https://activity-graph.herokuapp.com/graph?username=devhysterical&theme=dracula">
-        </a>
+        </a> -->
       </td>
     </tr>
   </tbody>
@@ -48,8 +48,8 @@
         </a>
       </th>
       <th>
-<!--         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhysterical&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhysterical&theme=dracula"/> -->
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhysterical&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhysterical&theme=dracula"/>
         </a>
       </th>
     </tr>
