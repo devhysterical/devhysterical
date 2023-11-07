@@ -48,7 +48,7 @@
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhysterical&">
+<!--         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhysterical&"> -->
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhysterical&theme=dracula"/>
         </a>
       </th>
