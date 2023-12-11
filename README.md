@@ -1,5 +1,5 @@
 # Welcome to my Github
-# My name is Lam Tuan Kiet, I'm 20 years old
+#  Hello there! I'm Lam Tuan Kiet, a 20-year-old student pursuing a degree in Information Technology at Thu Dau Mot University. 🎓💻 Passionate about coding, problem-solving, and exploring the vast world of technology. Join me on my journey of learning and creating!🚀
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiet-lam-tuan-ba1004247/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19275843) 
