@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lam Tuan Kiet
 =====================================================================================================================================
 
-I'm a student pursuing a degree in Information Technology at Thu Dau Mot University🎓💻. Passionate about coding, problem-solving, and exploring the vast world of technology. Join me on my journey of learning and creating!🚀
+- I'm a student pursuing a degree in Information Technology at Thu Dau Mot University🎓💻. 
+- Passionate about coding, problem-solving, and exploring the vast world of technology.
+- Join me on my journey of learning and creating!🚀.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiet-lam-tuan-ba1004247/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19275843) 
