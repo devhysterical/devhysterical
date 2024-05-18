@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 ## 📈 LeetCode Stats
-[![Kiet Lam Tuan LeetCode stats](https://leetcode-stats-six.vercel.app/?username=____btn2egzit&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Kiet Lam Tuan LeetCode stats](https://leetcode-stats-six.vercel.app/?username=____btn2egzit&theme=dark)]([https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/u/____btn2egzit/))
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
