@@ -1,5 +1,6 @@
-# 💫 About Me:
-# 👨‍💻 Hello! I'm Lam Tuan Kiet (Hysteric)<br>**A Fullstack Developer driven by curiosity.** 🔍<br><br>I believe that being a developer is not just about writing code, but about solving problems and continuous learning. As a fresh graduate, I am actively looking for opportunities to contribute to impactful projects and grow alongside experienced mentors.
+## 👨‍💻 Hello! I'm Lam Tuan Kiet (Hysteric)
+**A Fullstack Developer driven by curiosity.** 🔍<br>
+I believe that being a developer is not just about writing code, but about solving problems and continuous learning. As a fresh graduate, I am actively looking for opportunities to contribute to impactful projects and grow alongside experienced mentors.
 
 
 # 💻 Tech Stack:
