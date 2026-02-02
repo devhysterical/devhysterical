@@ -1,34 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lam Tuan Kiet
-=====================================================================================================================================
+# 💫 About Me:
+# 👨‍💻 Hello! I'm Lam Tuan Kiet (Hysteric)<br>**A Fullstack Developer driven by curiosity.** 🔍<br><br>I believe that being a developer is not just about writing code, but about solving problems and continuous learning. As a fresh graduate, I am actively looking for opportunities to contribute to impactful projects and grow alongside experienced mentors.
 
-- I'm a student pursuing a degree in Information Technology at Thu Dau Mot University🎓💻. 
-- Passionate about coding, problem-solving, and exploring the vast world of technology.
-- Join me on my journey of learning and creating!🚀.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiet-lam-tuan-ba1004247/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19275843) 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devhysterical&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devhysterical&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devhysterical&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊GitHub Stats :
-<div align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=devhysterical&bg_color=2E344000&color=A9A9A9FF&title_color=81A1C1FF&line=81A1C1FF&point=8FBCBBFF&hide_border=true&custom_title=Kiet's%20Contribution%20Graph"/>
-  <br/>
-  <img width=54.1% alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devhysterical&show_icons=true&bg_color=2E344000&title_color=81A1C1FF&text_color=A9A9A9FF&icon_color=8FBCCBFF&custom_title=Kiet%27s%20GitHub%20Stats&hide=issues&hide_border=true"/>
-  <img width=35.9% alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=devhysterical&show_icons=true&layout=compact&bg_color=2E344000&title_color=81A1C1FF&text_color=A9A9A9FF&custom_title=Kiet's%20Most%20Used%20Languages&hide_border=true"/>
-  <br/>
-  <img width=60% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=devhysterical&theme=nord&background=2E344000&dates=A9A9A9FF&hide_border=true"/>
-</div>
-
-## 📈 LeetCode Stats
-![Kiet Lam Tuan LeetCode stats](https://leetcard.jacoblin.cool/____btn2egzit?ext=heatmap)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![](https://visitcount.itsvg.in/api?id=devhysterical&icon=2&color=11)](https://visitcount.itsvg.in)
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devhysterical&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
