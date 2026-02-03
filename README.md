@@ -12,6 +12,3 @@ I believe that being a developer is not just about writing code, but about solvi
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devhysterical&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
